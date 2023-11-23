@@ -1,0 +1,21 @@
+body {
+    background-color: #8e8e8e;
+    font-family: 'Helvetica neue', sans-serif;
+    font-weight: 200;
+    font-size: 2rem;
+}
+
+.words {
+    max-width: 31.25em;
+    margin: 2em auto;
+    background: #fff;
+    border-radius: 10px;
+    border-bottom: 1px solid red;
+    padding: .5em;
+
+}
+
+p {
+    line-height: 1;
+    border: solid 2px #000;
+}
